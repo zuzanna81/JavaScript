@@ -22,5 +22,4 @@ console.log(emptyArray);
 function myFirstName(name) {
   console.log('My first name is ' + name);
 }
-
 myFirstName('Zuzanna');
